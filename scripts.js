@@ -11,5 +11,5 @@ if (allNames.indexOf(newName) === -1) {
 	allNames.push(newName);
 	console.log('Dodano imię ' + newName + ' do tablicy.');
 } else {
-		console.log('Imię ' + newName + ' jest już w bazie.');
+	console.log('Imię ' + newName + ' jest już w bazie.');
 }
